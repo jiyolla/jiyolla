@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Coding could be fun
+Coding could be fun.
 
 ### About Profile Picture
-This cute and relaxing ['Coffee Cat'](https://www.facebook.com/sungwon.illust/photos/a.199644236840599/1003628149775533/?type=3&eid=ARBuqgMEfSq387rnsfz41Smbc7f0NTHQ9GmEDdFZORwrIA7xkXFeoU3SMh3dWqUyOoLUTx2tG2IlCm6V&__xts__[0]=68.ARA_rvSujEeAhSj7Ctn2HZOPepPOg_GvdCtjm9cacX8A5Re5dwGUKy-N7Lpv_c3lj8QwA19CWaHka2iDbC3wcQuZzugkM_i_rX4qQEjVyewYNWwNo55pXAoF_uazARpAe7EXmaMPuTD1pf0jztxDdxok-YXAikKiIh-cMJiIl0YpuEdRtE_BXOMtIemCsFLUskCzxrY1trdixGtSnQKrcxHkbzMHCy99wiX1zBL8QBpDAL2olX6EdQV24oGqDy76Ky_C71qiPGLn-RTcxk4y8uUXRkoXYckLs-WVWRJtfo3eox96aS9xcg) is by [Sungwon](https://www.facebook.com/sungwon.illust/)
+This cute and relaxing ['Coffee Cat'](https://www.facebook.com/sungwon.illust/photos/a.199644236840599/1003628149775533/?type=3&eid=ARBuqgMEfSq387rnsfz41Smbc7f0NTHQ9GmEDdFZORwrIA7xkXFeoU3SMh3dWqUyOoLUTx2tG2IlCm6V&__xts__[0]=68.ARA_rvSujEeAhSj7Ctn2HZOPepPOg_GvdCtjm9cacX8A5Re5dwGUKy-N7Lpv_c3lj8QwA19CWaHka2iDbC3wcQuZzugkM_i_rX4qQEjVyewYNWwNo55pXAoF_uazARpAe7EXmaMPuTD1pf0jztxDdxok-YXAikKiIh-cMJiIl0YpuEdRtE_BXOMtIemCsFLUskCzxrY1trdixGtSnQKrcxHkbzMHCy99wiX1zBL8QBpDAL2olX6EdQV24oGqDy76Ky_C71qiPGLn-RTcxk4y8uUXRkoXYckLs-WVWRJtfo3eox96aS9xcg) is by [Sungwon](https://www.facebook.com/sungwon.illust/).
 
 <!--
 **jiyolla/jiyolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
